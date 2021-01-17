@@ -1,7 +1,7 @@
 # DD2434
 Project report in the course DD2434 at KTH HT20
 
-#Instructions
+Instructions
 Paper:
 
 Megha Khosla, Vinay Setty, and Avishek Anand. "A Comparative Study for Unsupervised Network Representation Learning." IEEE Transactions on Knowledge and Data Engineering (2019)
